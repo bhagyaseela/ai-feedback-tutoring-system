@@ -24,6 +24,12 @@ $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
 
+// this make show the loading pages
+// 
+// $CFG->themedesignermode = true;
+// $CFG->cachejs = false;
+
+
 
 require_once(__DIR__ . '/lib/setup.php');
 

@@ -1,0 +1,16 @@
+COURSE ID: 2
+ASSIGNMENT ID: 3
+ASSIGNMENT NAME: assignment_test_03
+
+=== DESCRIPTION / INSTRUCTIONS (FROM INTRO) ===
+Answer the following questions briefly. 
+Your answers should be clear and written in your own words. 
+1. What is a computer? 
+2. Explain the difference between hardware and software. 
+3. Give two examples of input devices and two examples of output devices.
+
+=== ACTIVITY INSTRUCTIONS ===
+Write your answers in 1–2 sentences per question
+
+=== ASSIGNMENT ADDITIONAL FILES ===
+(None found)

@@ -27,7 +27,7 @@ $CFG->directorypermissions = 0777;
 // this make show the loading pages
 // 
 // $CFG->themedesignermode = true;
-// $CFG->cachejs = false;
+$CFG->cachejs = true;
 
 
 

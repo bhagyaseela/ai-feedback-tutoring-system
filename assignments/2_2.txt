@@ -1,0 +1,12 @@
+COURSE ID: 2
+ASSIGNMENT ID: 2
+ASSIGNMENT NAME: assignment_test_02
+
+=== DESCRIPTION / INSTRUCTIONS (FROM INTRO) ===
+This is the test assignment 2
+
+=== ACTIVITY INSTRUCTIONS ===
+Do submission as instructed in the assignment
+
+=== ASSIGNMENT ADDITIONAL FILES ===
+(None found)

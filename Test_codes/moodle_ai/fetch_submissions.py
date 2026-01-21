@@ -6,7 +6,7 @@ from PyPDF2 import PdfReader
 
 MOODLE_URL = "http://localhost/moodle_fyp"   # no trailing slash is fine
 TOKEN = "b21263f9e0ba4e81e046f1da30e16f80"
-ASSIGNMENT_ID = 1
+ASSIGNMENT_ID = 3
 
 OUT_DIR = "submissions"
 

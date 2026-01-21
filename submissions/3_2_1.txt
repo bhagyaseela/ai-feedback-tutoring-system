@@ -1,0 +1,8 @@
+STUDENT ID: 3
+ASSIGNMENT ID: 1
+SUBMISSION ID: 2
+
+=== PDF SUBMISSION TEXT ===
+The core concept of this assignment was to demonstrate how Artificial Intelligence can integrate with
+Learning Management Systems. By using the Moodle API, we can retrieve the concept of student data
+and process it externally. This project proves that the concept of adaptive learning is viable.

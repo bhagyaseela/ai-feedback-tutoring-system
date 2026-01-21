@@ -1,0 +1,23 @@
+COURSE ID: 2
+ASSIGNMENT ID: 1
+ASSIGNMENT NAME: assignment_test_01
+
+=== DESCRIPTION / INSTRUCTIONS (FROM INTRO) ===
+(No intro text found)
+
+=== ASSIGNMENT ADDITIONAL FILES (EXTRACTED TEXT) ===
+
+--- File: Assignment_2.pdf (from introattachments) ---
+Course: Introduction to Computing
+Assignment Title: Introduction to Computing Concepts
+Assignment Type: File upload (PDF / DOCX)
+Marks: 10
+Deadline: Any test date
+Assignment Description
+Answer the following questions briefly.
+Your answers should be clear and written in your own words.
+1. What is a computer?
+2. Explain the difference between hardware and software.
+3. Give two examples of input devices and two examples of output devices.
+Instructions
+• Write your answers in 1–2 sentences per question

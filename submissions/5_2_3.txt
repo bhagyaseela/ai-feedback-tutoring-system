@@ -1,0 +1,10 @@
+STUDENT ID: 5
+ASSIGNMENT ID: 3
+SUBMISSION ID: 9
+
+=== ONLINE TEXT SUBMISSION ===
+Student ID: student_3 
+Answers 
+1. A computer is an electronic thing. 
+2. Hardware is computer. Software is also computer. 
+3. Keyboard and monitor.

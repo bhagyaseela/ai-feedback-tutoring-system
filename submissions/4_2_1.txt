@@ -1,0 +1,9 @@
+STUDENT ID: 4
+ASSIGNMENT ID: 1
+SUBMISSION ID: 3
+
+=== PDF SUBMISSION TEXT ===
+Student 2 report
+The core Management Systems. By using the Moodle API, we can retrieve the concept of student data
+and process it externally. This project proves that the idea of adaptive learning is viable.
+Balabal alalaa

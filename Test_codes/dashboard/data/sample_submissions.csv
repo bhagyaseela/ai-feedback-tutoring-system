@@ -1,0 +1,16 @@
+course,assignment,student,question,score,plagiarism
+DSA,Assignment1,John,1,65,0.05
+DSA,Assignment1,John,2,70,0.05
+DSA,Assignment1,John,3,60,0.05
+DSA,Assignment1,Sara,1,80,0.02
+DSA,Assignment1,Sara,2,85,0.01
+DSA,Assignment1,Sara,3,90,0.01
+DSA,Assignment1,Amal,1,50,0.15
+DSA,Assignment1,Amal,2,55,0.12
+DSA,Assignment1,Amal,3,58,0.10
+DSA,Assignment2,John,1,75,0.04
+DSA,Assignment2,John,2,72,0.04
+DSA,Assignment2,John,3,80,0.04
+DSA,Assignment2,Sara,1,90,0.01
+DSA,Assignment2,Sara,2,88,0.01
+DSA,Assignment2,Sara,3,92,0.01
